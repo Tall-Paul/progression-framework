@@ -30,7 +30,8 @@ export default class Index extends React.Component<Props> {
              <DescriptionText>This is a preview of the Progression framework in use at Freeway insurance.</DescriptionText>
              <DescriptionText>It's based on the excellent Monzo Progression Framework: <a href="https://github.com/monzo/progression-framework">Here</a></DescriptionText>
              <DescriptionText>Source code is <a href="https://github.com/Tall-Paul/progression-framework">Here</a> </DescriptionText>
-             <DescriptionText>Deployments to the Master Branch are automatically built and deployed on netlify: <img src="https://api.netlify.com/api/v1/badges/fa5ab270-44ed-42d9-bea9-d46e8d0ef7d0/deploy-status" ></img></DescriptionText>
+             <DescriptionText>Deployments to the Master Branch are automatically built and deployed on netlify</DescriptionText>
+             <Descriptiontext> <img src="https://api.netlify.com/api/v1/badges/fa5ab270-44ed-42d9-bea9-d46e8d0ef7d0/deploy-status" ></img> </DescriptionText>
           </Description>
         </DescriptionView>
       </Layout>

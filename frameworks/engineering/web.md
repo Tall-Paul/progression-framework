@@ -7,48 +7,43 @@ yaml: true
 levels: 6
 homepage: true
 topics:
-  - name: "communication"
+  - name: "Core Skills"
     title:
     content:
       - level: 1
         criteria:
-          - "Provides regular status updates to their mentor/buddy"
-          - "Points out syntactical improvements in code reviews"
-          - "Writes PR descriptions that provide basic context for the change"
-          - "Seeks guidance from other engineers, rather than answers"
+          - "You write proof of concept or testing code for small features when provided with guidance, direction and support"
+          - "You are developing competence in a specific area through training, development and experience."
+          - "Your primary focus is on growth as an developer - you are constantly learning how to learn."
       - level: 2
         criteria:
-          - "Proactively communicates to their team what they are working on, why, how it's going and what help they need"
-          - "Accepts feedback graciously"
-          - "Gives feedback to peers when asked"
-        exampleCriteria:
-          - criteria: "Provides helpful and actionable feedback in code reviews in an empathetic manner"
-            examples:
-              - "Take a look at the levelling up your code reviews talk for some ideas"
-          - criteria: "Writes PR descriptions that provide context and provide rationale for significant decisions"
-            examples:
-              - "I decided to X instead of Y here, I also considered Z but for these reasons I went with X"
+          - "You write production-ready code when provided with guidance on the best approach."
+          - "You are beginning to focus on gaining expertise in 1-2 specific areas."
+          - "You participate in the design of features (with close guidance)."        
       - level: 3
         criteria:
-          - "Transparent about mistakes they've made, early"
-          - "Proactively gives timely actionable feedback to peers"
-          - "Proactively seeks feedback from the people around them"
-          - "Considers the opinions of others before defending their own"
+          - "You are developing a high level of competency in a core language and / or technology"
+          - "You understand and make well-reasoned design decisions and trade-offs in your solution area."
+          - "You are able to debug and solve problems in your own code or others code, with support or guidance from colleagues."   
       - level: 4
         criteria:
-          - "Proactively gives feedback 'upwards' and to people they interact with who are not in their team"
-          - "Transparent in making design and technical decisions"
-          - "Helps people in non-technical roles understand technical constraints / trade-offs"
-          - "Shares technical context and direction for less experienced engineers"
-          - "Gives direct and constructive feedback to other engineers"
+          - "You are developing an expertise in a core language and / or technology, and gaining awareness of others."
+          - "You have a methodical and reasoned approach to debugging and problem solving."
+          - "You are able to optimise your code, refactoring it for readability and performance"
       - level: 5
         criteria:
-          - "Helps other people develop themselves and regularly gives insightful, useful feedback to those around them"
-          - "Talks to non-technical stakeholders on appropriate level of abstraction"
+          - "You are a respected expert in your core language / technology and are sought for your opinion and guidance."
+          - "You understand the architecture, how it is delivered and run in production, and the impact your changes may have on it."   
+          - "You care about the quality of the codebase and are continually looking for ways to improve it, as well as the experience of working with it."
+          - "You are able to non-functionally test and tune the components for which you are responsible (e.g. in areas of performance, security, accessibility, etc.)"
       - level: 6
         criteria:
-          - "Transparent about feedback they have received and what they are going to do differently"
-  - name: "impact"
+          - "You have a deep understanding of multiple technologies and frameworks"
+          - "you are able to select between technologies for specific tasks or solutions"
+          - The code you produce is frequently exemplar code for the benefit of others."
+          - "You have a deep understanding of related approaches and disciplines such as Agile, DevOps, and Software / Solution Architecture."
+          - "You anticipate technical issues, communicate these properly to the relevant stakeholders, and make architectural / design decisions to avoid / resolve them."
+  - name: "Communication"
     title:
     content:
       - level: 1
@@ -89,6 +84,7 @@ topics:
         criteria:
           - "Accountable for delivery of large, mission critical engineering projects"
           - "Originates or finishes large, horizontal engineering efforts"
+
   - name: "leadership"
     title: "👩‍💼 Leadership"
     content:

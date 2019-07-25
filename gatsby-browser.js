@@ -5,6 +5,6 @@ ReactGA.set({
   appName: 'Progression at Monzo'
 })*/
 
-exports.onRouteUpdate = (state) => {
+/*exports.onRouteUpdate = (state) => {
   ReactGA.pageview(state.location.pathname)
-}
+}*/

@@ -8,7 +8,7 @@ levels: 6
 homepage: true
 topics:
   - name: "Core Skills"
-    title:
+    title: "Core Skills"
     content:
       - level: 1
         criteria:

@@ -1,8 +1,8 @@
 ---
-path: "/development/developer"
+path: "/technology/developer"
 title: "🌐 Software Development Framework"
 sidebarTitle: "Developer"
-sidebarGroup: "development"
+sidebarGroup: "technology"
 yaml: true
 levels: 6
 homepage: true

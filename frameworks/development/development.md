@@ -1,8 +1,8 @@
 ---
-path: "/engineering/development"
+path: "/development/developer"
 title: "🌐 Software Development Framework"
-sidebarTitle: "Dev"
-sidebarGroup: "engineering"
+sidebarTitle: "🌐 Developer"
+sidebarGroup: "development"
 yaml: true
 levels: 6
 homepage: true
@@ -157,7 +157,12 @@ The framework is a compass, not a GPS.
 It's meant to be helpful. It's not meant to be a rating system for humans, free from edge cases.
 
 ### How does it work?
-The framework covers all the things we’re looking for from engineers at Freeway. 
+The framework covers all the things we’re looking for from engineers at Monzo. We’re interested in these five elements:
+- Mastery - Your Monzo knowledge and technical capability
+- Impact - The size, scope and value of what you deliver
+- Influence - How you change the world around you for the better
+- Comms & Feedback - How you interact with others
+- Leadership - How people around you become better and more impactful
 
 We sort them into six levels, and we try to give specific examples of behaviours we expect for each. Each of those levels has a fairly wide salary range associated with it, and within each level you can progress in sub-levels, labelled A–E. So even if you’re at level 3 for a couple of years, you’ll still be able to see that you’re moving forward. Basically, the more behaviours you show from your level, the more you’ll progress.
 

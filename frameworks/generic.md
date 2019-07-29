@@ -8,7 +8,7 @@ levels: 6
 homepage: false
 topics:
   - name: "knowledge"
-    title: "🧠 Knowledge"
+    title: "Knowledge"
     content:
       - level: 1
         criteria:
@@ -35,32 +35,8 @@ topics:
         criteria:
           - "Has a high-level understanding of all the areas they own"
           - "Understands the wider business context"
-  - name: "impact"
-    title: "💥 Impact"
-    content:
-      - level: 1
-        criteria:
-          - "Independently works on small, low-impact, well-defined task"
-          - "Looks to optimise existing work (eg Processes, procedures, products, etc)"
-      - level: 2
-        criteria:
-          - "Delivers small, well-defined tasks/projects"
-          - "Delegated low-impact problems to solve"
-      - level: 3
-        criteria:
-          - "Identifies problems to solve"
-          - "Owns the implementation of the solution"
-      - level: 4
-        criteria:
-          - "Can take a long-term vision and define building blocks to get there"
-      - level: 5
-        criteria:
-          - "Understands the big picture and integrates company goals into their area"
-      - level: 6
-        criteria:
-          - "Is the accountable exec for high-impact projects"
   - name: "communication"
-    title: "💬 Communication"
+    title: "Communication"
     content:
       - level: 1
         criteria:
@@ -84,17 +60,15 @@ topics:
         criteria:
           - "An effective and inspiring communicator internally and externally"
   - name: "teamwork"
-    title: "🤝 Teamwork"
+    title: "Teamwork"
     content:
       - level: 1
         criteria:
           - "Works closely or in pairs with more senior members of the team when facing tasks for the first time"
           - "Needs support and guidance from managers, mentors and leads"
-          - "Needs approval to ship projects of a certain impact"
           - "They may need support on how to navigate the professional environment"
       - level: 2
-        criteria:
-          - "Starts to delegate tasks to peers"
+        criteria:          
           - "Collaborates within their team"
           - "Independently works and learns"
           - "Do not need to be checked in on daily"
@@ -104,6 +78,7 @@ topics:
           - "Strong cultural understanding"
           - "Empowers those around them"
           - "Takes ownership of their own development"
+          - "Starts to delegate tasks to peers"
       - level: 4
         criteria:
           - "Leads through influence"
@@ -113,45 +88,10 @@ topics:
       - level: 5
         criteria:
           - "You coach others to find the best solution"
-          - "You inspire your team and can attract top talent to the organisation"
           - "You unblock people outside of your area"
       - level: 6
         criteria:
           - "Leader of business culture and strategy"
           - "You own your area’s structure"
           - "Strong leadership and coaching abilities"
-  - name: "conduct"
-    title: "👩‍💻 Conduct"
-    content:
-      - level: 1
-        criteria:
-          - "Follows policies and procedures applicable to role"
-          - "Completes training"
-          - "Identifies risks related to own areas"
-      - level: 2
-        criteria:
-          - "Applies and follows governance principles as they apply to role"
-          - "Communicates and escalates risks related to own projects and business area"
-          - "Ensures colleagues actively analyse and address risks in their area"
-      - level: 3
-        criteria:
-          - "Expert risk and compliance knowledge as relevant to role"
-          - "Takes ownership for training others in risk & compliance as relevant to their role"
-          - "Promptly and effectively deals with unforeseen risks as they arise"
-      - level: 4
-        criteria:
-          - "Uses knowledge of internal and external environment to develop strategy and internal policy"
-          - "Applies sophisticated and creative analysis and recommends remediating action"
-          - "Responds to complex issues devising smart strategies for the mitigation of risk"
-      - level: 5
-        criteria:
-          - "Participates in risk management and mitigation at the highest industry level"
-          - "Leads by example and proves their area is managing risk and compliance within appetite"
-          - "Gets involved in and identifies opportunities for colleagues to participate in advisory, strategic, industry bodies to learn and share best practice in their area of business"
-      - level: 6
-        criteria:
-          - "Creates a strong risk culture throughout the organisation"
-          - "Owns policies and can evidence their compliance"
-          - "Contributes to thought leadership on effective and creative risk management throughout the industry"
-          - "Proactively identifies holistic measures to robust risk management and implements them company-wide"
----
+  

@@ -2,8 +2,8 @@
 import * as React from 'react'
 import { Location } from '@reach/router'
 import { Helmet } from 'react-helmet'
-import favicon from '../images/favicon.png'
-import menuIcon from '../images/menu_icon.svg'
+import favicon from '../images/freeway.png'
+import menuIcon from '../images/freeway.png'
 import closeIcon from '../images/close_icon.svg'
 import SidebarBuilder from './sidebarBuilder'
 import {

@@ -1,6 +1,6 @@
 ---
 path: "/engineering/development"
-title: "Software Development Framework"
+title: "🌐 Software Development Framework"
 sidebarTitle: "Dev"
 sidebarGroup: "engineering"
 yaml: true
@@ -77,7 +77,7 @@ topics:
           - "You are able to discuss project priorities with the wider business and the board of directors, with a view to their commercial application"  
           - "You are able to lead interviews for new team members, relating their experience to the needs of the team"
   - name: "leadership"
-    title: "Leadership"
+    title: "👩‍💼 Leadership"
     content:    
       - level: 4
         criteria:
@@ -100,7 +100,7 @@ topics:
           - "You Start things that they cannot finish by themselves"
           - "You delegate to make better use of their time"
   - name: "mastery"
-    title: "Mastery"
+    title: "🛠️ Mastery"
     content:      
       - level: 2
         criteria:
@@ -116,11 +116,7 @@ topics:
           - "You work with users to improve new and existing simple features iteratively"
           - "You are able to deploy web services into UAT following our deployment guidelines"
           - "You use appropriate design patterns to solve problems"
-          - "You are able to create new projects and setup the development environment for them"     
-        exampleCriteria:
-          - criteria: "You have a more advanced knowledge of Git and are able to use its features to improve the team's workflow"
-            examples:
-              - "able to merge pull requests and resolve merge conflicts"    
+          - "You are able to create new projects and setup the development environment for them"         
       - level: 4
         criteria:
           - "You can identify obvious deficiencies in the development processes and support activities to improve them"
@@ -168,7 +164,7 @@ We sort them into six levels, and we try to give specific examples of behaviours
 Your manager will work with you on this. None of it will happen mysteriously behind closed doors. You’ll agree what level of progression you’re going for and what you need to improve on with your manager. It should be clear how you’re doing relative to that at all times.
 
 ### Things to keep in mind
-- There are many different ways to progress and be valuable to Freeway as you grow, including deep technical knowledge and ability, technical leadership and people management. All are equally valuable paths in Freeway's engineering team.
+- There are many different ways to progress and be valuable to Monzo as you grow, including deep technical knowledge and ability, technical leadership and people management. All are equally valuable paths in Monzo's engineering team.
 - The framework represents a career’s worth of progression, people shouldn’t expect to fly up it in 18 months!
 - Engineering progression isn’t an exact science and there will always be some ambiguity.
 - This isn’t a checklist – it’s possible to progress up a level without showing all the behaviours in that level.

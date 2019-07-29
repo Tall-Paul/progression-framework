@@ -34,7 +34,7 @@ module.exports = {
         background_color: '#14233c',
         theme_color: '#14233c',
         display: 'minimal-ui',
-        icon: 'src/images/favicon.png',
+        icon: 'src/images/freeway.png',
       },
     }
   ],

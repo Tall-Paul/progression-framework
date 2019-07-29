@@ -107,26 +107,26 @@ class SidebarBuilder extends React.Component<SidebarProps, SidebarState> {
         })
         .map(edge => {
           const content = edge.node.frontmatter
-
           if (emojiRegex.exec(content.sidebarTitle)) {
             let sidebarEmoji = content.sidebarTitle.match(emojiRegex)[0]
             let sidebarTitle = content.sidebarTitle
-              .replace(sidebarEmoji, ' ')
-              .trim()
-
-            if (content.sidebarTitle === '📄 Generic') {
-              return <React.Fragment key={Math.random()} />
-            }
-
-            return (
-              <ListElement key={edge.node.id}>
-                <StyledLink to={content.path} state={{ openedTopics }}>
-                  <EmojiListItem>{sidebarEmoji}</EmojiListItem>
-                  {sidebarTitle}
-                </StyledLink>
-              </ListElement>
-            )
+            .replace(sidebarEmoji, ' ')
+            .trim()
+          } else {
+            let sidebarEmoji = "📄"     
+            let sideBarTitle = content.sidebarTitle
           }
+          if (content.sidebarTitle === '📄 Generic') {
+            return <React.Fragment key={Math.random()} />
+          }
+          return (
+            <ListElement key={edge.node.id}>
+              <StyledLink to={content.path} state={{ openedTopics }}>
+                <EmojiListItem>{sidebarEmoji}</EmojiListItem>
+                {sidebarTitle}
+              </StyledLink>
+            </ListElement>
+          )
         })
 
       return obj
